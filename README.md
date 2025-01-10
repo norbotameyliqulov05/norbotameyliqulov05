@@ -3,7 +3,7 @@
 
 - Telegram:                           [norbotameyliqulov05](@Norbota_05)
 ## Main tools
-[![My Skills](https://skillicons.dev/icons?i=c,python,django,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css)](https://skillicons.dev)
 
 ## Other tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,vscode,pycharm,postman)](https://skillicons.dev)
